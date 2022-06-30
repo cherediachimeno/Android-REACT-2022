@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutoria-2-Android</string>
+    <string name="hello">Hello World</string>
+    <string name="bye">Bye Bye World</string>
+    <string name="android">Hello Android</string>
+    <string name="java">Hello Java</string>
+</resources>
